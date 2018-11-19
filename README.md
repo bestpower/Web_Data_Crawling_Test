@@ -24,7 +24,6 @@ db_table = 'lottery_table'  # 数据表名
 添加2018110380到lottery_table成功  
 期号：2018110379	时间：2018-11-03 22:12:18	号码:19,13,11,12,18,17,15,16  
 3、这时可通过mysql命令行工具查询存储的相关信息如下：  
-![Image text](Web_Data_Crawling_Test/readme_img_folder/mysql.PNG)  
+![Image](https://github.com/bestpower/Web_Data_Crawling_Test/blob/master/readme_img_folder/mysql.PNG)    
 说明爬取下来的数据已成功保存  
-        
       
